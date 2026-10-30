@@ -13,7 +13,7 @@ st.set_page_config(
 st.title("Student Performance Analysis Dashboard")
 st.write("Analyze student marks, attendance and study habits.")
 
-uri = "mongodb+srv://shivdwivedi289_db_user:shiv123@cluster0.oyu5ybe.mongodb.net/"
+uri = "mongodb+srv://shiv******8_db_user:*******@cluster0.oyu5ybe.mongodb.net/"
 
 @st.cache_data(ttl=60)
 def load_data():
