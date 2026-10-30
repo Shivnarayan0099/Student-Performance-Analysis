@@ -86,7 +86,7 @@ plt.tight_layout()
 plt.show()
 
 # Connect to MongoDB Atlas
-uri = "mongodb+srv://shivdwivedi289_db_user:shiv123@cluster0.oyu5ybe.mongodb.net"
+uri = "mongodb+srv://shiv******88_db_user:*******@cluster0.oyu5ybe.mongodb.net"
 
 client = None
 
