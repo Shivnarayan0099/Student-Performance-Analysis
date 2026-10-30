@@ -35,7 +35,7 @@ print("Average exam score:", round(clean_df["Exam_Score"].mean(), 2))
 print("Highest exam score:", clean_df["Exam_Score"].max())
 print("Average attendance:", round(clean_df["Attendance"].mean(), 2))
 
-uri = "mongodb+srv://shivdwivedi289_db_user:shiv123@cluster0.oyu5ybe.mongodb.net/"
+uri = "mongodb+srv://shiv********_db_user:********@cluster0.oyu5ybe.mongodb.net/"
 
 client = None
 
